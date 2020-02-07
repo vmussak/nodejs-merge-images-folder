@@ -1,0 +1,14 @@
+{
+  "name": "juntar-imagens",
+  "version": "1.0.0",
+  "description": "Juntar imagens",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vinicius Mussak <vinicius.mussak@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "merge-img": "^2.1.3"
+  }
+}
